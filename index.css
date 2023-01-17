@@ -29,7 +29,7 @@ iframe {
   border-radius: 5px;
 }
 
-button{
+.left-content-bottom__button{
   border: 0;
   padding: 0;
   width: 300px;
@@ -47,3 +47,4 @@ button{
 .left-content-bottom__a{
   text-decoration: none;
 }
+
